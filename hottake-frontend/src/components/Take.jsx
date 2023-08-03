@@ -46,7 +46,7 @@ const Take = ({ take }) => {
           </div>
         </div>
         <article className="pl-4 pt-1">
-          <p className="w-full text-lg pt-0 pb-6 break-all">{take.content}</p>
+          <p className="w-full text-lg pt-0 pb-6">{take.content}</p>
           <div className="">
             <div className="inline-block pr-4">
               {likeable ? (

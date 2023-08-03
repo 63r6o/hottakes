@@ -29,7 +29,7 @@ const UserTake = ({ take }) => {
 
   return (
     <article className="px-4 pt-14 w-full max-w-[674px]">
-      <p className="w-full text-lg pt-0 pb-6 break-all">{take.content}</p>
+      <p className="w-full text-lg pt-0 pb-6">{take.content}</p>
       <div className="flex items-center">
         <div className="pr-4">
           {likeable ? (
