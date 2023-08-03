@@ -1,0 +1,36 @@
+dbpass
+.DS_Store
+hottake-backend/node_modules
+hottake-backend/.env
+hottake-backend/.notes.md
+hottake-backend/TODO.md
+
+hottake-frontend/.git
+hottake-backend/.git
+
+# Logs
+hottake-frontend/logs
+hottake-frontend/*.log
+hottake-frontend/npm-debug.log*
+hottake-frontend/yarn-debug.log*
+hottake-frontend/yarn-error.log*
+hottake-frontend/pnpm-debug.log*
+hottake-frontend/lerna-debug.log*
+
+hottake-frontend/node_modules
+hottake-frontend/dist
+hottake-frontend/dist-ssr
+hottake-frontend/*.local
+
+# Editor directories and files
+hottake-frontend/.vscode/*
+hottake-frontend/!.vscode/extensions.json
+hottake-frontend/.idea
+hottake-frontend/.DS_Store
+hottake-frontend/*.suo
+hottake-frontend/*.ntvs*
+hottake-frontend/*.njsproj
+hottake-frontend/*.sln
+hottake-frontend/*.sw?
+
+hottake-frontend/TODO.md
