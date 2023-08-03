@@ -17,7 +17,6 @@ const takesSlice = createSlice({
   reducers: {
     setTakes(state, action) {
       const takes = action.payload;
-      // takes.sort((a, b) => b.likes - b.dislikes - (a.likes - a.dislikes));
       takes.reverse();
 
       return {
