@@ -5,7 +5,9 @@ A small, twitter-like toy application using the MERN stack, where you can
 ***post***, ***like*** or ***dislike*** a hot take
 _(since we don't have enough places like this on the internet)_.
 
-It has been deployed [here](https://hottakes-1nqu.onrender.com/).
+It has been deployed [here](https://hottakes-1nqu.onrender.com/). *
+
+_* on a free render instance, which takes ~30 seconds to spin up_
 
 
 ## Technologies Used
